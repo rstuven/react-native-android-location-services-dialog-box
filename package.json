@@ -20,8 +20,5 @@
     "location-services-dialog-box",
     "react-native-location-services",
     "react-native-location-services-dialog-box"
-  ],
-  "peerDependencies": {
-    "react-native": "^0.14.2"
-  }
+  ]
 }
